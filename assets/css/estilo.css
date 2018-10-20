@@ -1,0 +1,94 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+ul,ol,li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: rgb(17, 15, 37);
+    font-weight: bold;
+}
+.menu > ul{
+    background-color:#E0FFFF;
+    margin: 0;
+    padding: 20px;
+}
+.menu > ul > li{
+    display: inline;
+    padding-left: 60px;
+}
+#curriculum{
+    padding: 10px 90px 10px 10px;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+.container img{
+    width: 200px;
+    padding: 80px 150px 80px 160px;
+}
+.container{
+    display: flex;
+    align-items:center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.container h3{
+    font-size: 16px;
+}
+.container h2{
+    font-size: 25px;
+    padding: 30px;
+}
+.container li{
+    list-style: disc;
+    font-size: 16px;
+    padding: 2px 0 15px 0;
+}
+#formacao{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px 298px 50px 280px;
+    border: solid black 1px;
+}
+#competencias{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px 418px 50px 410px;
+    border: solid black 1px;
+}
+#cursos{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px 238px 50px 230px;
+    border: solid black 1px;
+}
+#info{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px 50px 50px 50px;
+    border: solid black 1px;
+}
+footer{
+    background-color: #E0FFFF;
+    margin: 0;
+    padding: 20px;
+}
+footer > div > ol > li{
+    display: inline;
+    padding-left: 165px;
+}
+#trabalhos{
+    font-weight: bold;
+}
