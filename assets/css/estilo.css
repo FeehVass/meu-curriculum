@@ -22,7 +22,7 @@ a:hover{
     background-image:url("../imagens/fundomenu.jpg");
     padding-bottom: 40%;;
     background-repeat: no-repeat;
-    position: relative;
+        position: relative;
 }
 
 .menu > ul{
