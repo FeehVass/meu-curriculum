@@ -20,9 +20,9 @@ a:hover{
 
 .menu{
     background-image:url("../imagens/fundomenu.jpg");
-    padding-bottom: 40%;;
+    padding-bottom: 30%;;
     background-repeat: no-repeat;
-        position: relative;
+    position: relative;
 }
 
 .menu > ul{
@@ -82,9 +82,8 @@ a:hover{
     display: flex;
     align-items: center;
     flex-direction: column;
-    padding: 50px 260px 60px 258px;
+    padding: 50px 300px 60px 300px;
     border: solid black 1px;
-    position: relative;
 }
 
 #formacao h1{
@@ -94,7 +93,7 @@ a:hover{
     display: flex;
     align-items: center;
     flex-direction: column;
-    padding: 50px 400px 60px 399px;
+    padding: 50px 440px 60px 440px;
     border: solid black 1px;
     position: relative;
 }
@@ -103,7 +102,7 @@ a:hover{
     display: flex;
     align-items: stretch;
     flex-direction: column;
-    padding: 50px 220px 60px 220px;
+    padding: 50px 260px 60px 260px;
     border: solid black 1px;
     position: relative;
 }
@@ -112,7 +111,7 @@ a:hover{
     display: flex;
     align-items: center;
     flex-direction: column;
-    padding: 50px 35px 60px 35px;
+    padding: 50px 75px 60px 75px;
     border: solid black 1px;
     position: relative;
 }
@@ -124,7 +123,7 @@ a:hover{
 
 #hobbies img{
     width: 15%;
-    padding: 50px 0 0 30px;
+    padding: 40px 0 0 20px;
 }
 
 #hobbies div{
